@@ -69,8 +69,8 @@ comprobarse las siguientes condiciones:
 
 A continuación se muestra la imagen con el resultado de ejecutar el fichero `primos.py` con la opción *verbosa*, de manera que se muestre el resultado de la ejecución de los tests unitarios:
 
-![Resultados de los tests](Pruebas_P2_1.png)
-![Resultados de los tests](Pruebas_P2_2.png)
+![Resultados de los tests](img/Pruebas_P2_1.png)
+![Resultados de los tests](img/Pruebas_P2_2.png)
 
 
 #### Código desarrollado
